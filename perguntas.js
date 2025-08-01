@@ -1,11 +1,17 @@
-CriaCartao(
-    'Aleatorio',
-    'Jacinto'
-    'Sim'
+criarCartao(
+    'Programação',
+    'O que é Javascript?',
+    'O javascript é uma linguagem de programação'
 )
-CriaCartao(
-    'Matematica'
-    'Qual a somo de dois que é igual a 20'
-    '17+3')
 
-   CriaCartao () 
+criarCartao(
+    'Geografia',
+    'Onde mora um japa',
+    'Japão'
+)
+
+criarCartao(
+    'Programação',
+    'Como programar',
+    'digitando'
+)
